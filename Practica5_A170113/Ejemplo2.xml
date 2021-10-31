@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/Osvaldo/Downloads/WEB/Practica5_A170113/Ejemplo2.xsl"?>
+<automoviles>
+  <auto>
+    <marca>Nissan</marca>
+    <modelo>GT-R</modelo>
+    <color>Negro</color>
+    <precio>2791600</precio>
+  </auto>
+  <auto>
+    <marca>Dodge</marca>
+    <modelo>Challenger</modelo>
+    <color>Rojo</color>
+    <precio>870000</precio>
+  </auto>
+  <auto>
+    <marca>Ford</marca>
+    <modelo>Mustang</modelo>
+    <color>Azul</color>
+    <precio>1167600</precio>
+  </auto>
+  <auto>
+    <marca>Chevrolet</marca>
+    <modelo>Corvette</modelo>
+    <color>Rojo</color>
+    <precio>2790000</precio>
+  </auto>
+</automoviles>
